@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.zip
+*.tgz
+.DS_Store
+*.log
+.serve-logs/
